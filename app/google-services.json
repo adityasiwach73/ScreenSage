@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "601295697196",
+    "project_id": "screen-sage-3c3d2",
+    "storage_bucket": "screen-sage-3c3d2.firebasestorage.app"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:601295697196:android:ed88f930fd3d281994a889",
+        "android_client_info": {
+          "package_name": "com.example.screensage"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCMH8C6qkTk2sbKj4Jkb4bwamCyYPHd78Y"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
